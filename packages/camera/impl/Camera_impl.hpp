@@ -141,7 +141,7 @@ Camera<ProjectionType>::setAspectRatio( double aspectRatio )
 {
     CIE_BEGIN_EXCEPTION_TRACING
 
-    CIE_RUNTIME_GEOMETRY_CHECK(
+    CIE_DEBUG_CHECK(
         aspectRatio > 0,
         "Invalid aspect ratio: " + std::to_string(aspectRatio)
     )

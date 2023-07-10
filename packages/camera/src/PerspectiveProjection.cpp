@@ -14,7 +14,7 @@ namespace cie::gl {
 
 void PerspectiveProjection::zoom_impl( double scale )
 {
-    CIE_RUNTIME_GEOMETRY_CHECK(
+    CIE_DEBUG_CHECK(
         scale > 0,
         "Invalid zoom scale: " + std::to_string(scale)
     )

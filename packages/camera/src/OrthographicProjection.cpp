@@ -19,7 +19,7 @@ namespace cie::gl {
 
 void OrthographicProjection::zoom_impl( double scale )
 {
-    CIE_RUNTIME_GEOMETRY_CHECK(
+    CIE_DEBUG_CHECK(
         scale > 0,
         "Invalid zoom scale: " + std::to_string(scale)
     )
@@ -36,7 +36,7 @@ void OrthographicProjection::updateProjectionMatrix_impl()
     tmpSizes.first  /= 2.0;
     tmpSizes.second /= 2.0;
 
-    this->_projectionMatrix = glm::ortho( 
+    this->_projectionMatrix = glm::ortho(
         -tmpSizes.first
         ,tmpSizes.first
         ,-tmpSizes.second

@@ -81,7 +81,7 @@ Arrow<VertexType>::updateShape()
     attribute_type tolerance = 1e-8;
 
     // Check shape parameters
-    CIE_RUNTIME_GEOMETRY_CHECK(
+    CIE_DEBUG_CHECK(
         tolerance < linalg::norm( tangent ),
         "Degenerate arrow" )
 
