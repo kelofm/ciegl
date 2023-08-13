@@ -69,6 +69,19 @@ if (${PROJECT_NAME_UPPER}_BUILD_TESTS)
     set_target_properties(${PROJECT_NAME}_testrunner PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
 endif()
 
+# Build python module
+if (${PROJECT_NAME_UPPER}_BUILD_PYTHON_MODULE)
+    # Each subdirectory in modules is assumed to be a python module
+    # and is installed as-is
+    file(GLOB children "${CMAKE_CURRENT_SOURCE_DIR}/python/modules/*")
+    foreach(child ${children})
+        if (IS_DIRECTORY "${child}")
+            get_filename_component(module_name "${child}" NAME)
+            install(DIRECTORY "${child}" DESTINATION "cie")
+        endif()
+    endforeach()
+endif()
+
 # Install data
 install(DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/data/" DESTINATION "${CMAKE_INSTALL_PREFIX}/cie/data/")
 
