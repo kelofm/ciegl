@@ -1,0 +1,9 @@
+<map id="cie::gl::Part" name="cie::gl::Part">
+<area shape="rect" id="node1" title=" " alt="" coords="196,131,387,457"/>
+<area shape="rect" id="node3" href="$classcie_1_1gl_1_1GenericPart.html" title=" " alt="" coords="5,505,180,700"/>
+<area shape="rect" id="node4" href="$classcie_1_1gl_1_1Line2DPart.html" title=" " alt="" coords="204,535,379,671"/>
+<area shape="rect" id="node5" href="$classcie_1_1gl_1_1Triangulated3DPart.html" title=" " alt="" coords="403,542,595,663"/>
+<area shape="rect" id="node2" href="$structcie_1_1gl_1_1GLTraits.html" title=" " alt="" coords="231,5,351,83"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1ObjPart.html" title=" " alt="" coords="371,748,487,855"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1STLPart.html" title=" " alt="" coords="511,748,629,855"/>
+</map>

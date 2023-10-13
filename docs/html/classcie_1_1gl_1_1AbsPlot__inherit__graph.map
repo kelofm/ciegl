@@ -1,0 +1,9 @@
+<map id="cie::gl::AbsPlot" name="cie::gl::AbsPlot">
+<area shape="rect" id="node1" title=" " alt="" coords="333,5,456,171"/>
+<area shape="rect" id="node2" href="$classcie_1_1gl_1_1AbsPlot2.html" title=" " alt="" coords="174,477,311,657"/>
+<area shape="rect" id="node5" href="$classcie_1_1gl_1_1AbsPlot2.html" title=" " alt="" coords="417,477,604,657"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1AbsPlot2.html" title=" " alt="" coords="326,220,463,400"/>
+<area shape="rect" id="node3" href="$structcie_1_1gl_1_1Plot2_3_01TObject_01_4.html" title=" " alt="" coords="222,714,405,791"/>
+<area shape="rect" id="node4" href="$structcie_1_1gl_1_1Plot2_3_01XContainer_00_01YContainer_01_4.html" title="Standard x&#45;y plot." alt="" coords="5,707,197,799"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1Plot2.html" title="Default Plot2 that will cause a compilation error." alt="" coords="430,714,591,791"/>
+</map>

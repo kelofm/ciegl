@@ -1,0 +1,11 @@
+<map id="cie::gl::Scene" name="cie::gl::Scene">
+<area shape="rect" id="node1" title=" " alt="" coords="112,520,279,876"/>
+<area shape="rect" id="node5" href="$classcie_1_1gl_1_1AbsPlot2_1_1Plot2Scene.html" title="Internal Scene class used by AbsPlot2." alt="" coords="5,939,185,1075"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1PartScene.html" title=" " alt="" coords="209,924,384,1089"/>
+<area shape="rect" id="node2" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1Loggee.html" title=" " alt="" coords="49,263,181,472"/>
+<area shape="rect" id="node3" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1NamedObject.html" title=" " alt="" coords="28,5,203,215"/>
+<area shape="rect" id="node4" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="206,270,347,465"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1GenericPartScene.html" title="Convenience Scene class." alt="" coords="95,1137,277,1259"/>
+<area shape="rect" id="node9" href="$classcie_1_1gl_1_1Triangulated3DPartScene.html" title=" " alt="" coords="301,1137,511,1259"/>
+<area shape="rect" id="node8" href="$classcie_1_1gl_1_1Axes3DScene.html" title=" " alt="" coords="95,1307,277,1428"/>
+</map>

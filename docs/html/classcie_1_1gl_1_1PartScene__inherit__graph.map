@@ -1,0 +1,10 @@
+<map id="cie::gl::PartScene" name="cie::gl::PartScene">
+<area shape="rect" id="node1" title=" " alt="" coords="119,924,293,1089"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1GenericPartScene.html" title="Convenience Scene class." alt="" coords="5,1137,188,1259"/>
+<area shape="rect" id="node8" href="$classcie_1_1gl_1_1Triangulated3DPartScene.html" title=" " alt="" coords="212,1137,421,1259"/>
+<area shape="rect" id="node2" href="$classcie_1_1gl_1_1Scene.html" title=" " alt="" coords="123,520,289,876"/>
+<area shape="rect" id="node3" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1Loggee.html" title=" " alt="" coords="60,263,192,472"/>
+<area shape="rect" id="node4" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1NamedObject.html" title=" " alt="" coords="39,5,213,215"/>
+<area shape="rect" id="node5" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="217,270,358,465"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1Axes3DScene.html" title=" " alt="" coords="5,1307,188,1428"/>
+</map>
