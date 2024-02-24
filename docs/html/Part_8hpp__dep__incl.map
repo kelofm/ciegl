@@ -1,0 +1,12 @@
+<map id="Part.hpp" name="Part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="263,5,337,32"/>
+<area shape="rect" id="node2" href="$GenericPart_8hpp.html" title=" " alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$Line2DPart_8hpp.html" title=" " alt="" coords="155,80,275,107"/>
+<area shape="rect" id="node4" href="$Triangulated3DPart_8hpp.html" title=" " alt="" coords="299,80,472,107"/>
+<area shape="rect" id="node7" href="$PartScene_8hpp.html" title=" " alt="" coords="496,80,611,107"/>
+<area shape="rect" id="node5" href="$ObjPart_8hpp.html" title=" " alt="" coords="218,155,315,181"/>
+<area shape="rect" id="node6" href="$STLPart_8hpp.html" title=" " alt="" coords="340,155,439,181"/>
+<area shape="rect" id="node8" href="$GenericPartScene_8hpp.html" title=" " alt="" coords="469,155,633,181"/>
+<area shape="rect" id="node10" href="$Triangulated3DPartScene_8hpp.html" title=" " alt="" coords="657,155,869,181"/>
+<area shape="rect" id="node9" href="$Axes3DScene_8hpp.html" title=" " alt="" coords="481,229,620,256"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cie::gl::GLUniform" name="cie::gl::GLUniform">
+<area shape="rect" id="node1" title="Interface for loading uniforms into GL." alt="" coords="349,521,487,628"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1FloatGLUniform.html" title=" " alt="" coords="5,685,177,777"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1FloatMat4GLUniform.html" title=" " alt="" coords="202,685,407,777"/>
+<area shape="rect" id="node8" href="$classcie_1_1gl_1_1FloatVec3GLUniform.html" title=" " alt="" coords="431,677,634,784"/>
+<area shape="rect" id="node9" href="$classcie_1_1gl_1_1GLUniformPlaceholder.html" title=" " alt="" coords="659,685,873,777"/>
+<area shape="rect" id="node2" href="$classcie_1_1gl_1_1Shader_1_1Uniform.html" title="Immutable uniform descriptor (for any shader)." alt="" coords="240,314,415,435"/>
+<area shape="rect" id="node3" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1NamedObject.html" title=" " alt="" coords="240,5,415,215"/>
+<area shape="rect" id="node4" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="439,277,581,472"/>
+<area shape="rect" id="node5" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="439,13,581,207"/>
+</map>

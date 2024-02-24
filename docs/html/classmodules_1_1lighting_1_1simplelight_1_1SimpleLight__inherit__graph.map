@@ -1,0 +1,4 @@
+<map id="modules.lighting.simplelight.SimpleLight" name="modules.lighting.simplelight.SimpleLight">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,127"/>
+<area shape="rect" id="node2" href="$classmodules_1_1lighting_1_1timedlight_1_1TimedSpotLight.html" title=" " alt="" coords="8,175,215,281"/>
+</map>

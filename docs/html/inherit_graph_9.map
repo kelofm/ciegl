@@ -1,0 +1,56 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structcie_1_1gl_1_1GLTraits.html" title=" " alt="" coords="5,305,125,332"/>
+<area shape="rect" id="node2" href="$classcie_1_1gl_1_1AbsGLShape.html" title=" " alt="" coords="185,264,336,291"/>
+<area shape="rect" id="node8" href="$classcie_1_1gl_1_1AbsVertex.html" title=" " alt="" coords="193,335,328,361"/>
+<area shape="rect" id="node12" href="$classcie_1_1gl_1_1Axes3DScene.html" title=" " alt="" coords="1396,735,1553,761"/>
+<area shape="rect" id="node13" href="$classcie_1_1gl_1_1Part.html" title=" " alt="" coords="213,81,308,108"/>
+<area shape="rect" id="node3" href="$classcie_1_1gl_1_1CompoundShape.html" title=" " alt="" coords="403,289,581,330"/>
+<area shape="rect" id="node5" href="$classcie_1_1gl_1_1CompoundShape.html" title="Container of shapes with an AbsGLShape interface." alt="" coords="403,223,581,265"/>
+<area shape="rect" id="node6" href="$classcie_1_1gl_1_1GLShape.html" title=" " alt="" coords="401,158,583,199"/>
+<area shape="rect" id="node4" href="$classcie_1_1gl_1_1Axes.html" title=" " alt="" coords="691,296,791,323"/>
+<area shape="rect" id="node7" href="$classcie_1_1gl_1_1Arrow.html" title=" " alt="" coords="636,165,845,192"/>
+<area shape="rect" id="node9" href="$classcie_1_1gl_1_1Vertex2.html" title=" " alt="" coords="433,355,551,381"/>
+<area shape="rect" id="node10" href="$classcie_1_1gl_1_1Vertex3.html" title=" " alt="" coords="681,347,800,373"/>
+<area shape="rect" id="node11" href="$classcie_1_1gl_1_1ColoredVertex3.html" title=" " alt="" coords="916,347,1085,373"/>
+<area shape="rect" id="node14" href="$classcie_1_1gl_1_1GenericPart.html" title=" " alt="" coords="420,5,564,32"/>
+<area shape="rect" id="node15" href="$classcie_1_1gl_1_1Line2DPart.html" title=" " alt="" coords="423,56,561,83"/>
+<area shape="rect" id="node16" href="$classcie_1_1gl_1_1Triangulated3DPart.html" title=" " alt="" coords="396,107,588,133"/>
+<area shape="rect" id="node17" href="$classcie_1_1gl_1_1ObjPart.html" title=" " alt="" coords="683,111,799,137"/>
+<area shape="rect" id="node18" href="$classcie_1_1gl_1_1STLPart.html" title=" " alt="" coords="682,60,799,87"/>
+<area shape="rect" id="node19" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="421,702,563,743"/>
+<area shape="rect" id="node20" href="$classcie_1_1gl_1_1AbsMonitor.html" title=" " alt="" coords="669,819,812,845"/>
+<area shape="rect" id="node22" href="$classcie_1_1gl_1_1AbsProgram.html" title=" " alt="" coords="667,651,815,677"/>
+<area shape="rect" id="node23" href="$classcie_1_1gl_1_1AbsWindow.html" title=" " alt="" coords="668,499,813,525"/>
+<area shape="rect" id="node25" href="$classcie_1_1gl_1_1Buffer.html" title=" " alt="" coords="657,702,824,743"/>
+<area shape="rect" id="node26" href="$classcie_1_1gl_1_1Scene.html" title=" " alt="" coords="687,600,795,627"/>
+<area shape="rect" id="node31" href="$classcie_1_1gl_1_1Shader.html" title="Interface class representing a shader written in GLSL." alt="" coords="683,768,798,795"/>
+<area shape="rect" id="node34" href="$classcie_1_1gl_1_1Shader_1_1Output.html" title="Represents an output of the fragment shader." alt="" coords="657,920,824,947"/>
+<area shape="rect" id="node21" href="$classcie_1_1gl_1_1GLFWMonitor.html" title=" " alt="" coords="922,819,1079,845"/>
+<area shape="rect" id="node24" href="$classcie_1_1gl_1_1GLFWWindow.html" title=" " alt="" coords="921,499,1080,525"/>
+<area shape="rect" id="node27" href="$classcie_1_1gl_1_1AbsPlot2_1_1Plot2Scene.html" title="Internal Scene class used by AbsPlot2." alt="" coords="911,651,1091,693"/>
+<area shape="rect" id="node28" href="$classcie_1_1gl_1_1PartScene.html" title=" " alt="" coords="934,600,1067,627"/>
+<area shape="rect" id="node29" href="$classcie_1_1gl_1_1GenericPartScene.html" title="Convenience Scene class." alt="" coords="1161,600,1343,627"/>
+<area shape="rect" id="node30" href="$classcie_1_1gl_1_1Triangulated3DPartScene.html" title=" " alt="" coords="1156,651,1348,693"/>
+<area shape="rect" id="node32" href="$classcie_1_1gl_1_1DynamicShader.html" title="Shader loaded from the filesystem." alt="" coords="915,768,1087,795"/>
+<area shape="rect" id="node33" href="$classcie_1_1gl_1_1StaticShader.html" title="Shader loaded from memory." alt="" coords="925,717,1076,744"/>
+<area shape="rect" id="node35" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="421,1190,563,1231"/>
+<area shape="rect" id="node36" href="$classcie_1_1gl_1_1GLUniform.html" title="Interface for loading uniforms into GL." alt="" coords="671,1143,810,1169"/>
+<area shape="rect" id="node37" href="$classcie_1_1gl_1_1FloatGLUniform.html" title=" " alt="" coords="915,1117,1087,1144"/>
+<area shape="rect" id="node38" href="$classcie_1_1gl_1_1FloatMat4GLUniform.html" title=" " alt="" coords="898,1168,1103,1195"/>
+<area shape="rect" id="node39" href="$classcie_1_1gl_1_1FloatVec3GLUniform.html" title=" " alt="" coords="899,1219,1102,1261"/>
+<area shape="rect" id="node40" href="$classcie_1_1gl_1_1GLUniformPlaceholder.html" title=" " alt="" coords="893,1067,1108,1093"/>
+<area shape="rect" id="node41" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1IDObject.html" title=" " alt="" coords="421,971,563,1013"/>
+<area shape="rect" id="node42" href="$classcie_1_1gl_1_1Texture.html" title="Interface for loading textures onto the GPU." alt="" coords="682,1033,799,1060"/>
+<area shape="rect" id="node43" href="$classcie_1_1gl_1_1VertexArrayObject.html" title=" " alt="" coords="647,975,835,1001"/>
+<area shape="rect" id="node44" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1NamedObject.html" title=" " alt="" coords="173,1037,348,1064"/>
+<area shape="rect" id="node45" href="$classcie_1_1gl_1_1Shader_1_1Attribute.html" title="Immutable attribute descriptor for vertex shaders." alt="" coords="403,1139,581,1165"/>
+<area shape="rect" id="node46" href="$classcie_1_1gl_1_1Shader_1_1Texture.html" title="Immutable texture descriptor." alt="" coords="407,1037,577,1064"/>
+<area shape="rect" id="node47" href="$classcie_1_1gl_1_1Shader_1_1Uniform.html" title="Immutable uniform descriptor (for any shader)." alt="" coords="405,1088,579,1115"/>
+<area shape="rect" id="node48" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1Loggee.html" title=" " alt="" coords="426,600,558,627"/>
+<area shape="rect" id="node49" href="$classcie_1_1gl_1_1AbsCamera.html" title=" " alt="" coords="669,448,813,475"/>
+<area shape="rect" id="node51" href="$classcie_1_1gl_1_1BufferManager.html" title=" " alt="" coords="658,549,823,576"/>
+<area shape="rect" id="node50" href="$classcie_1_1gl_1_1Camera.html" title=" " alt="" coords="901,415,1101,457"/>
+<area shape="rect" id="node52" href="$classcie_1_1gl_1_1RigidBody.html" title=" " alt="" coords="425,423,559,449"/>
+<area shape="rect" id="node53" href="/home/runner/work/ciegl/ciegl/cieutils/docs/cieutils_doxygen_tagfile$classcie_1_1utils_1_1observer_1_1Subject.html" title=" " alt="" coords="421,491,563,533"/>
+<area shape="rect" id="node54" href="$classcie_1_1gl_1_1ProjectionType.html" title=" " alt="" coords="659,397,823,424"/>
+</map>
